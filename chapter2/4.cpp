@@ -7,6 +7,8 @@
  * Your age in months is 384
  */
 
+#include <iostream>
+
 int main()
 {
 	using namespace std;

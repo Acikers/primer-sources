@@ -8,7 +8,7 @@
 int main()
 {
 	using namespace std;
-	int dist = 0;
+	double dist = 0;
 
 	cout << "Please, enter distance in furlongs:";
 	cin >> dist;
